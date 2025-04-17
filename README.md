@@ -1,13 +1,11 @@
-# Libft - Your First C Library 🧱
+# Libft - My First C Library 🧱
 
 ![Hive Helsinki](https://img.shields.io/badge/Hive-Helsinki-000000?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![GitHub code size](https://img.shields.io/github/languages/code-size/yourusername/libft?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-**Score**: 125/100 (Mandatory + Bonus)  
-**Solo Project** | **Estimated Time**: 60 hours | **XP Earned**: 500XP  
-**Last Commit**: ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/libft?style=flat-square)
+**Solo Project** | **Estimated Time**: 60 hours
 
 ## 📚 About The Project
 
